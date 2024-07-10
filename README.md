@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Simple Rails tax Calculator GUI based on NZ rates
+* Ruby version 3.1.2
+* Rails version 7.1.3.4
 
-Things you may want to cover:
+USAGE
+ run `bundle install`
+ run `rails server`
 
-* Ruby version
+ head over to http://localhost:3000/tax_calculators
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
